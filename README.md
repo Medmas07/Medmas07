@@ -67,7 +67,7 @@ Some work is private or still being researched:
 <div align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,linux&theme=dark" alt="PostgreSQL, MongoDB, Docker, Git, GitHub, Linux" />
 <br />
-<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB" />
+<img src="https://cdn.simpleicons.org/influxdb/22ADF6" alt="InfluxDB" title="InfluxDB" height="46" />
 </div>
 
 ### AI, ML & experimentation
@@ -83,9 +83,9 @@ Some work is private or still being researched:
 ### Browser automation & web scraping
 
 <div align="center">
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-<img src="https://img.shields.io/badge/Camoufox-Firefox--based-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Camoufox" />
-<img src="https://img.shields.io/badge/Browser_DevTools-Advanced_usage-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Browser developer tools" />
+<img src="./assets/tool-icons/playwright.svg" alt="Playwright" title="Playwright" height="46" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/daijro/camoufox/main/browser/additions/browser/branding/camoufox/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" alt="Camoufox" title="Camoufox" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Browser DevTools" title="Browser DevTools" height="46" />
 </div>
 
 I have strong practical experience with browser developer tools for inspecting network traffic, debugging web applications, understanding browser behavior, and building resilient scraping workflows.
@@ -94,35 +94,46 @@ I have strong practical experience with browser developer tools for inspecting n
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
-<br />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" alt="PlatformIO" />
+&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32 / Espressif" title="ESP32" height="46" />
+&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/platformio/F5822A" alt="PlatformIO" title="PlatformIO" height="46" />
 </div>
 
 ### Cybersecurity exploration
 
 
 <div align="center">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap" />
-<img src="https://img.shields.io/badge/Zenmap-5C6BC0?style=flat-square" alt="Zenmap" />
-<img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white" alt="OpenVPN" />
-<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense" />
-<img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
-<img src="https://img.shields.io/badge/Hydra-1E5128?style=flat-square" alt="Hydra" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/SpiderFoot-3949AB?style=flat-square" alt="SpiderFoot" />
-<img src="https://img.shields.io/badge/recon--ng-455A64?style=flat-square" alt="recon-ng" />
-<img src="https://img.shields.io/badge/WPScan-222222?style=flat-square&logo=wordpress&logoColor=white" alt="WPScan" />
-<img src="https://img.shields.io/badge/Gobuster-6A1B9A?style=flat-square" alt="Gobuster" />
-<img src="https://img.shields.io/badge/ffuf-D32F2F?style=flat-square" alt="ffuf" />
-<img src="https://img.shields.io/badge/Shodan-CC0000?style=flat-square&logo=shodan&logoColor=white" alt="Shodan" />
+<img src="./assets/tool-icons/wireshark.svg" alt="Wireshark" title="Wireshark" height="52" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/nmap.svg" alt="Nmap" title="Nmap" height="52" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/zenmap.svg" alt="Zenmap" title="Zenmap" height="52" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/openvpn.svg" alt="OpenVPN" title="OpenVPN" height="52" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/pfsense.svg" alt="pfSense" title="pfSense" height="52" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/tailscale.svg" alt="Tailscale" title="Tailscale" height="52" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/burpsuite.svg" alt="Burp Suite" title="Burp Suite" height="52" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/shodan.svg" alt="Shodan" title="Shodan" height="52" />
+</div>
+
+<div align="center">
+<sub>Wireshark · Nmap · Zenmap · OpenVPN · pfSense · Tailscale · Burp Suite · Shodan</sub>
+</div>
+
+<br />
+
+<div align="center">
+<img src="./assets/tool-icons/hydra.svg" alt="THC Hydra" title="THC Hydra" height="52" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/spiderfoot.svg" alt="SpiderFoot" title="SpiderFoot" height="52" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/recon-ng.svg" alt="recon-ng" title="recon-ng" height="52" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/wpscan.svg" alt="WPScan" title="WPScan" height="52" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/gobuster.svg" alt="Gobuster" title="Gobuster" height="52" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/ffuf.svg" alt="ffuf" title="ffuf" height="52" />
+</div>
+
+<div align="center">
+<sub>THC Hydra · SpiderFoot · recon-ng · WPScan · Gobuster · ffuf</sub>
 </div>
 
 ## 🌱 Current focus
 
 - Making **PhantomLLM** more reliable and easier for developers to use.
-- Deepening my understanding of **systems programming** through ProcViz.
 - Advancing **CognitiveTrace** research and reproducible ML experiments.
 - Shipping and validating useful software rather than only building prototypes.
 
