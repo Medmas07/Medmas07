@@ -5,7 +5,7 @@
 
 ### Software Engineering Student @ INSAT, Tunisia 🇹🇳
 
-**AI Infrastructure · Systems & Observability · Applied ML · Software Products**
+**Browser Automation · Applied AI · Geospatial Systems · Software Products**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=850&color=66E0D1&center=true&vCenter=true&width=740&lines=%3E+build+systems;%3E+trace+processes+%26+graphs;%3E+experiment+with+AI;%3E+understand+the+code;%3E+improve+and+repeat)](https://git.io/typing-svg)
 
@@ -24,7 +24,7 @@ I enjoy turning ideas into working software — from developer tools and backend
 
 I'm especially interested in **what happens under the hood**: process relationships, data pipelines, agent runtimes, system failures, and the trade-offs behind architecture decisions.
 
-I use AI coding tools to accelerate development, while working on understanding my codebases more deeply, diagnosing root causes, and implementing critical components with greater independence.
+I focus on understanding codebases deeply, diagnosing root causes, making sound architecture decisions, and implementing critical components with increasing independence.
 
 > **Build it. Trace it. Understand it. Improve it.**
 
