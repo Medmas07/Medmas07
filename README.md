@@ -140,7 +140,6 @@ I have strong practical experience with browser developer tools for inspecting n
 <div align="center">
 <a href="https://www.wireshark.org/"><img src="./assets/tool-icons/wireshark.svg" alt="Wireshark" title="Wireshark" height="52" /></a>
 <a href="https://nmap.org/"><img src="./assets/tool-icons/nmap.svg" alt="Nmap" title="Nmap" height="52" /></a>
-<a href="https://nmap.org/zenmap/"><img src="./assets/tool-icons/zenmap.svg" alt="Zenmap" title="Zenmap" height="52" /></a>
 <a href="https://openvpn.net/"><img src="./assets/tool-icons/openvpn.svg" alt="OpenVPN" title="OpenVPN" height="52" /></a>
 <a href="https://www.pfsense.org/"><img src="./assets/tool-icons/pfsense.svg" alt="pfSense" title="pfSense" height="52" /></a>
 <a href="https://tailscale.com/"><img src="./assets/tool-icons/tailscale.svg" alt="Tailscale" title="Tailscale" height="52" /></a>
@@ -151,8 +150,6 @@ I have strong practical experience with browser developer tools for inspecting n
 <div align="center">
 <sub>Wireshark · Nmap · Zenmap · OpenVPN · pfSense · Tailscale · Burp Suite · Shodan</sub>
 </div>
-
-<br />
 
 <div align="center">
 <a href="https://github.com/vanhauser-thc/thc-hydra"><img src="./assets/tool-icons/hydra.svg" alt="THC Hydra" title="THC Hydra" height="52" /></a>
