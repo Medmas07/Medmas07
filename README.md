@@ -11,6 +11,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Medmas07-181717?style=flat-square&logo=github)](https://github.com/Medmas07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Masmoudi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-masmoudi-07bb61244/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-contmed-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/contmed/)
 ![Profile views](https://komarev.com/ghpvc/?username=Medmas07&label=Profile%20views&color=0a9991&style=flat-square)
 
 </div>
@@ -44,7 +45,7 @@ Some work is private or still being researched:
 
 - **CognitiveTrace** — multimodal behavior collection and analysis (research in progress).
 - **Olive Orchard Segmentation** — Sentinel-2 imagery, U-Net baselines, spatial evaluation (private experiments).
-- **QariVision** — research exploration of AI-assisted Quran recitation feedback (early-stage).
+
 
 ## 🛠️ Technical toolbox
 
@@ -60,24 +61,40 @@ Some work is private or still being researched:
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,fastapi,symfony,dotnet,spring,postman&theme=dark" alt="React, Next.js, NestJS, FastAPI, Symfony, .NET, Spring Boot, Postman" />
+<br />
+<img src="./assets/tool-icons/graphql.svg" alt="GraphQL" title="GraphQL" height="46" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/wordpress.svg" alt="WordPress" title="WordPress" height="46" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/plesk.svg" alt="Plesk" title="Plesk" height="46" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/xampp.svg" alt="XAMPP" title="XAMPP" height="46" />
 </div>
 
-### Databases & infrastructure
+### Data, geospatial & infrastructure
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,linux&theme=dark" alt="PostgreSQL, MongoDB, Docker, Git, GitHub, Linux" />
-<br />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" alt="PostgreSQL, MongoDB, MySQL" />
+&nbsp;&nbsp;
+<img src="./assets/tool-icons/postgis.png" alt="PostGIS" title="PostGIS" height="46" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/influxdb/22ADF6" alt="InfluxDB" title="InfluxDB" height="46" />
+<br />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows&theme=dark" alt="Docker, Git, GitHub, Linux, Windows Server" title="Docker, Git, GitHub, Linux, Windows Server" />
+&nbsp;&nbsp;<img src="./assets/tool-icons/virtualbox.svg" alt="VirtualBox" title="VirtualBox" height="48" />
+<br />
+<img src="./assets/tool-icons/google-earth.svg" alt="Google Earth" title="Google Earth" height="48" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud" title="Google Cloud" height="48" />
 </div>
+
+<sub>Also: virtual machines, network routing architectures, Windows Server, Google Earth and Google Cloud geospatial workflows.</sub>
 
 ### AI, ML & experimentation
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" alt="PyTorch, OpenCV, scikit-learn" />
+&nbsp;&nbsp;<img src="./assets/tool-icons/jupyter.svg" alt="Jupyter" title="Jupyter" height="46" />
+&nbsp;&nbsp;<img src="./assets/tool-icons/seaborn.svg" alt="Seaborn" title="Seaborn" height="46" />
 </div>
 
 <div align="center">
-<sub>Also: Pandas · Jupyter · GraphQL · geospatial data workflows</sub>
+<sub>Also: Pandas · statistical visualization · reproducible experiments</sub>
 </div>
 
 ### Browser automation & web scraping
@@ -96,6 +113,9 @@ I have strong practical experience with browser developer tools for inspecting n
 <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
 &nbsp;&nbsp;<img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32 / Espressif" title="ESP32" height="46" />
 &nbsp;&nbsp;<img src="https://cdn.simpleicons.org/platformio/F5822A" alt="PlatformIO" title="PlatformIO" height="46" />
+&nbsp;&nbsp;<img src="./assets/tool-icons/stm32.svg" alt="STM32" title="STM32" height="46" />
+&nbsp;&nbsp;<img src="./assets/tool-icons/ros.svg" alt="ROS" title="ROS" height="46" />
+&nbsp;&nbsp;<img src="./assets/tool-icons/gazebo.svg" alt="Gazebo" title="Gazebo" height="46" />
 </div>
 
 ### Cybersecurity exploration
@@ -131,6 +151,16 @@ I have strong practical experience with browser developer tools for inspecting n
 <sub>THC Hydra · SpiderFoot · recon-ng · WPScan · Gobuster · ffuf</sub>
 </div>
 
+### Past technology explorations
+
+<div align="center">
+<img src="./assets/tool-icons/bitcoin.svg" alt="Bitcoin" title="Bitcoin" height="46" />&nbsp;&nbsp;
+<img src="./assets/tool-icons/hedera.svg" alt="Hedera" title="Hedera" height="46" />
+</div>
+
+- **Bitcoin** — studied its architecture in depth and read the original white paper.
+- **Hedera** — began the official learning path but did not complete the training.
+
 ## 🌱 Current focus
 
 - Making **PhantomLLM** more reliable and easier for developers to use.
@@ -154,6 +184,7 @@ Open to conversations about **developer tooling, backend systems, applied AI, re
 
 - [GitHub — @Medmas07](https://github.com/Medmas07)
 - [LinkedIn — Mohamed Masmoudi](https://www.linkedin.com/in/mohamed-masmoudi-07bb61244/)
+- [LeetCode — @contmed](https://leetcode.com/u/contmed/)
 
 ---
 
