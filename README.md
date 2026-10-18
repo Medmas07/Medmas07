@@ -2,7 +2,6 @@
 
 <img src="./assets/medmasmoudi-banner.gif" alt="Medmas07 profile banner" width="100%" />
 
-# Hey, I'm Med 👋
 
 ### Software Engineering Student @ INSAT, Tunisia 🇹🇳
 
@@ -57,10 +56,18 @@ Some work is private or still being researched:
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,java,php&theme=dark" alt="Python, TypeScript, JavaScript, C++, C, Java, PHP" />
 </div>
 
-### Backend, databases & infrastructure
+### Web, backend & APIs
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,nextjs,postgres,docker,git,github,linux&theme=dark" alt="FastAPI, Next.js, PostgreSQL, Docker, Git, GitHub, Linux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,fastapi,symfony,dotnet,spring,postman&theme=dark" alt="React, Next.js, NestJS, FastAPI, Symfony, .NET, Spring Boot, Postman" />
+</div>
+
+### Databases & infrastructure
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,linux&theme=dark" alt="PostgreSQL, MongoDB, Docker, Git, GitHub, Linux" />
+<br />
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB" />
 </div>
 
 ### AI, ML & experimentation
@@ -70,7 +77,46 @@ Some work is private or still being researched:
 </div>
 
 <div align="center">
-<sub>Also: Playwright · Pandas · Jupyter · GraphQL · geospatial data workflows</sub>
+<sub>Also: Pandas · Jupyter · GraphQL · geospatial data workflows</sub>
+</div>
+
+### Browser automation & web scraping
+
+<div align="center">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Camoufox-Firefox--based-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Camoufox" />
+<img src="https://img.shields.io/badge/Browser_DevTools-Advanced_usage-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Browser developer tools" />
+</div>
+
+I have strong practical experience with browser developer tools for inspecting network traffic, debugging web applications, understanding browser behavior, and building resilient scraping workflows.
+
+### Robotics & embedded systems
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
+<br />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" alt="PlatformIO" />
+</div>
+
+### Cybersecurity exploration
+
+
+<div align="center">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap" />
+<img src="https://img.shields.io/badge/Zenmap-5C6BC0?style=flat-square" alt="Zenmap" />
+<img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white" alt="OpenVPN" />
+<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense" />
+<img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
+<img src="https://img.shields.io/badge/Hydra-1E5128?style=flat-square" alt="Hydra" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/SpiderFoot-3949AB?style=flat-square" alt="SpiderFoot" />
+<img src="https://img.shields.io/badge/recon--ng-455A64?style=flat-square" alt="recon-ng" />
+<img src="https://img.shields.io/badge/WPScan-222222?style=flat-square&logo=wordpress&logoColor=white" alt="WPScan" />
+<img src="https://img.shields.io/badge/Gobuster-6A1B9A?style=flat-square" alt="Gobuster" />
+<img src="https://img.shields.io/badge/ffuf-D32F2F?style=flat-square" alt="ffuf" />
+<img src="https://img.shields.io/badge/Shodan-CC0000?style=flat-square&logo=shodan&logoColor=white" alt="Shodan" />
 </div>
 
 ## 🌱 Current focus
@@ -84,12 +130,12 @@ Some work is private or still being researched:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Medmas07&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medmas07&layout=compact&theme=github_dark&hide_border=true" alt="Languages in public repositories" height="160" />
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com/?user=Medmas07&theme=github-dark-blue&hide_border=true" alt="Medmas07's GitHub contribution streak" />
+</a>
 
 </div>
 
-<sub>Activity metrics indicate repository activity, not code quality or proficiency; third-party cards may sometimes be unavailable.</sub>
 
 ## 🤝 Let's connect
 
@@ -100,6 +146,3 @@ Open to conversations about **developer tooling, backend systems, applied AI, re
 
 ---
 
-<div align="center">
-<sub>From Tunisia 🇹🇳 · Keep building, keep learning.</sub>
-</div>
