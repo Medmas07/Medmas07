@@ -12,7 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Medmas07-181717?style=flat-square&logo=github)](https://github.com/Medmas07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Masmoudi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-masmoudi-07bb61244/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-contmed-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/contmed/)
-![Profile views](https://komarev.com/ghpvc/?username=Medmas07&label=Profile%20views&color=0a9991&style=flat-square)
 
 </div>
 
